@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Este un archivo de hola
 programador2
+=======
+Este un archivo de hola....programador1
+>>>>>>> bea87be36136854cd92a5d8e732f135c698634fc
